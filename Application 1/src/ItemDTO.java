@@ -51,6 +51,6 @@ public class ItemDTO {
                 ", name='" + name + '\'' +
                 ", qty=" + qty +
                 ", price=" + price +
-                '}';
-    }
+            '}';
+}
 }
